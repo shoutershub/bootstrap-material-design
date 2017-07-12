@@ -2411,7 +2411,10 @@ h6 {
       font-size: 1.2rem; } }
 
 p.lead {
-  font-weight: 400; }
+  font-weight: 400;
+  margin-bottom: 0px !important;
+  float: left !important;
+}
 
 blockquote p {
   font-size: 0.9rem;
